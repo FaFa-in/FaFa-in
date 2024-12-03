@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FaFa</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-<div style="width:100%;height:0;padding-bottom:140%;position:relative;"><iframe src="https://giphy.com/embed/3oEdv5SY4LBHUBe2o8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/acid-lsd-dmt-3oEdv5SY4LBHUBe2o8">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3NeSk2IVEd2FYUQEcM" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/perfect-loops-3NeSk2IVEd2FYUQEcM">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fafahas&label=Profile%20views&color=0e75b6&style=flat" alt="fafahas" /> </p>
 
