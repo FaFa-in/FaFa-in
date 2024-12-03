@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from France</h3>
 
 
- <div style="width: 60%; height: 60%">
+ <div style="width: 600px; height: 200px">
   
 ![](https://github.com/fafahas/fafahas/blob/main/7IsD.gif)
   
