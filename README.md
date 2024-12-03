@@ -4,7 +4,7 @@
  
 
 
-![](https://github.com/fafahas/fafahas/blob/main/7IsD.gif)
+![](https://github.com/fafahas/fafahas/blob/main/7IsD.gif =900x250)
 
 <iframe src="https://giphy.com/embed/3NeSk2IVEd2FYUQEcM" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/perfect-loops-3NeSk2IVEd2FYUQEcM">via GIPHY</a></p>
 
