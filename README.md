@@ -2,10 +2,8 @@
 <h3 align="center">A passionate developer from France</h3>
 
 
- <div style="width: 600px; height: 200px">
-  
-![](https://github.com/fafahas/fafahas/blob/main/7IsD.gif)
-  
+<div style="width: 600px; height: 200px">
+    
 </div>
 
 ![](https://giphy.com/gifs/love-animation-art-3o7aCQjtpr8pi544YU)
