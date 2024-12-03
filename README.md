@@ -1,12 +1,6 @@
+[![MasterHead](https://giphy.com/gifs/art-design-loop-KVZWZQoS0yqfIiTAKq)
 <h1 align="center">Hi 👋, I'm FaFa</h1>
 <h3 align="center">A passionate developer from France</h3>
-
-
-<div style="width: 600px; height: 200px">
-    
-</div>
-
-![](https://giphy.com/gifs/love-animation-art-3o7aCQjtpr8pi544YU)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fafahas&label=Profile%20views&color=0e75b6&style=flat" alt="fafahas" /> </p>
 
