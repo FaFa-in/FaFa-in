@@ -8,6 +8,8 @@
   
 </div>
 
+![](https://giphy.com/gifs/love-animation-art-3o7aCQjtpr8pi544YU)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fafahas&label=Profile%20views&color=0e75b6&style=flat" alt="fafahas" /> </p>
 
 - 🔭 I’m currently working on **web developer**
