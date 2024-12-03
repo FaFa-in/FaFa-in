@@ -1,13 +1,15 @@
+![](https://raw.githubusercontent.com/fafahas/fafahas/refs/heads/main/giphy.webp)
+
 <h1 align="center">Hi 👋, I'm FaFa</h1>
 <h3 align="center">A passionate developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fafahas&label=Profile%20views&color=0e75b6&style=flat" alt="fafahas" /> </p>
 
-- 🔭 I’m currently working on **web developer**
+- 👩🏽‍💻 I’m currently working on **web developer**
 
 - 🌱 I’m currently learning **HTMX**
 
-- 👯 I’m looking to collaborate on **jogging**
+- 🏃🏽‍♀️ I’m looking to collaborate on **jogging**
 
 - 🤝 I’m looking for help with **website**
 
