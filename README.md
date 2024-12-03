@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm FaFa</h1>
 <h3 align="center">A passionate developer from France</h3>
 
- 
+
+ <div style="width: 60%; height: 60%">
+  
+![](https://github.com/fafahas/fafahas/blob/main/7IsD.gif)
+  
+</div>
 
 
 ![](https://github.com/fafahas/fafahas/blob/main/7IsD.gif)
