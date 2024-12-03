@@ -1,4 +1,3 @@
-[![MasterHead](https://giphy.com/gifs/art-design-loop-KVZWZQoS0yqfIiTAKq)
 <h1 align="center">Hi 👋, I'm FaFa</h1>
 <h3 align="center">A passionate developer from France</h3>
 
