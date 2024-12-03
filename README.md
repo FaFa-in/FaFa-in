@@ -8,9 +8,6 @@
   
 </div>
 
-
-![](https://github.com/fafahas/fafahas/blob/main/7IsD.gif)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fafahas&label=Profile%20views&color=0e75b6&style=flat" alt="fafahas" /> </p>
 
 - 🔭 I’m currently working on **web developer**
