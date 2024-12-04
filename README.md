@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/fafahas/fafahas/refs/heads/main/giphy.webp)
+![](https://github.com/fafahas/fafahas/blob/main/scared-geometry.gif)
 
 <h1 align="center">Hi 👋, I'm FaFa</h1>
 <h3 align="center">A passionate developer from France</h3>
