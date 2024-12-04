@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTMX**
 
-- 🏃🏽‍♀️ I’m looking to collaborate on **jogging**
+- 🏃🏽‍♀️ **jogging**
 
 - 🤝 I’m looking for help with **website**
 
