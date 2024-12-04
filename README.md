@@ -1,4 +1,6 @@
-![](https://github.com/fafahas/fafahas/blob/main/scared-geometry.gif)
+<div style="width: 60%; height: 60%">
+  ![](https://github.com/fafahas/fafahas/blob/main/Design-Geometric.jpg)
+</div>
 
 <h1 align="center">Hi 👋, I'm FaFa</h1>
 <h3 align="center">A passionate developer from France</h3>
