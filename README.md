@@ -1,7 +1,7 @@
 
 <div style="width: 100%; height: 60vh">
   
-  ![](Design-Geometric_02.jpg)
+  ![](CUBES_ABSTRAIT.jpg)
   
 </div>
 <h1 align="center">Hi 👋, I'm FaFa</h1>
