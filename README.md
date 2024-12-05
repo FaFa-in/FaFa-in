@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fafahas&label=Profile%20views&color=0e75b6&style=flat" alt="fafahas" /> </p>
 
-- 👩🏽‍💻 Working on **Developer and Techn Artist**
+- 👩🏽‍💻 Working on **Developer and Tech Artist**
 
 - 🤯 Learning **HTMX**
 
